@@ -15,7 +15,7 @@ public class HellpGit {
 		
 		System.out.println("Testing purpose");
 		System.out.println("Testing purpose1");
-		System.out.println("In developer branch by chatGPT nEWWWWWWWWWWWWW");
+		System.out.println("In developer branch by chatGPT nEWWWWWWWWWWW");
 	}
 
 }
