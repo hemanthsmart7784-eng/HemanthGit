@@ -13,9 +13,7 @@ public class HellpGit {
 		System.out.println("additon ="+(a+b));
 		System.out.println("sub ="+(b-a));
 		
-		System.out.println("Testing purpose");
-		System.out.println("Testing purpose1");
-		System.out.println("In developer branch by chatGPT nEWWWWWWWWWWW");
+		System.out.println("In developer branch by chatGPT NEW ONE, TWO ");
 	}
 
 }
