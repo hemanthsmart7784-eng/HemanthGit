@@ -9,7 +9,7 @@ public class HellpGit {
 		int a=20,b=30;
 		System.out.println("additon ="+(a+b));
 		System.out.println("sub ="+(b-a));
-		System.out.println("wipro");
+		System.out.println("wipro ");
 	
 		
 	}
