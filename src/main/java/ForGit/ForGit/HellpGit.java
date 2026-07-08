@@ -9,9 +9,8 @@ public class HellpGit {
 		int a=20,b=30;
 		System.out.println("additon ="+(a+b));
 		System.out.println("sub ="+(b-a));
-		
-		System.out.println("In developer branch by chatGPT NEW ONE, TWO ");
-		System.out.println("In developer branch by chatGPT NEW ONE, TWO,three ");
+		System.out.println("wipro");
+	
 		
 	}
 
